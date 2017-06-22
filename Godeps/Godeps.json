@@ -1,0 +1,12 @@
+{
+	"ImportPath": "microproxy",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "gopkg.in/urfave/cli.v2",
+			"Comment": "v1.18.0-264-g61c3eb6",
+			"Rev": "61c3eb6ba1da1df17cd50f1456a9252d92bf5edd"
+		}
+	]
+}
